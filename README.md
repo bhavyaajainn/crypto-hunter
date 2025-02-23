@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Crypto Hunter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Get All The Info Regarding Your Favorite Crypto Currency**
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+Crypto Hunter is a powerful application designed to provide comprehensive, real-time information about various cryptocurrencies. Whether you're a seasoned trader or a crypto enthusiast, Crypto Hunter makes it easy to track market trends, view detailed coin data, and stay updated on the latest in the crypto world.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Real-time Data:** Access up-to-date information on cryptocurrency prices and market trends.
+- **Comprehensive Details:** View detailed metrics including market cap, volume, circulating supply, and more.
+- **User-Friendly Interface:** Enjoy an intuitive design that makes navigating complex data simple.
+- **Search Functionality:** Quickly locate your favorite cryptocurrencies with an easy-to-use search bar.
+- **Responsive Design:** Optimized for both desktop and mobile devices for a seamless experience on any screen.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **Frontend:** React, Typescript, HTML, CSS
+- **API Integration:** Utilizes popular cryptocurrency APIs (e.g., CoinGecko, CoinMarketCap) to fetch real-time data
+- **Additional Tools:** Axios for HTTP requests, and other supportive libraries as needed
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+Follow these steps to set up and run Crypto Hunter on your local machine.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Node.js:** [Download and install Node.js](https://nodejs.org/)
+- **npm:** Comes packaged with Node.js (or you can use yarn if preferred)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installation
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/crypto-hunter.git
