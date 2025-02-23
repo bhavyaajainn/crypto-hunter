@@ -16,7 +16,7 @@ Crypto Hunter is a powerful application designed to provide comprehensive, real-
 
 ## Technologies Used
 
-- **Frontend:** React, Typescript, HTML, CSS
+- **Frontend:** React, JavaScript, HTML, CSS
 - **API Integration:** Utilizes popular cryptocurrency APIs (e.g., CoinGecko, CoinMarketCap) to fetch real-time data
 - **Additional Tools:** Axios for HTTP requests, and other supportive libraries as needed
 
